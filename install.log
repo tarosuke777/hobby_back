@@ -1,0 +1,124 @@
+
+t-osuga@PC01 MINGW64 /d/vscode-workspace/hobbyManage
+$ bundle install
+Fetching gem metadata from https://rubygems.org/...........
+Resolving dependencies...
+Fetching rake 13.1.0
+Installing rake 13.1.0
+Fetching base64 0.2.0
+Fetching bigdecimal 3.1.6
+Fetching concurrent-ruby 1.2.3
+Fetching connection_pool 2.4.1
+Fetching minitest 5.22.0
+Fetching mutex_m 0.2.0
+Fetching builder 3.2.4
+Fetching erubi 1.12.0
+Installing base64 0.2.0
+Installing connection_pool 2.4.1
+Installing builder 3.2.4
+Installing mutex_m 0.2.0
+Installing minitest 5.22.0
+Installing erubi 1.12.0
+Fetching racc 1.7.3
+Installing bigdecimal 3.1.6 with native extensions
+Fetching crass 1.0.6
+Fetching rack 3.0.9
+Installing concurrent-ruby 1.2.3
+Fetching nio4r 2.7.0
+Installing racc 1.7.3 with native extensions
+Installing crass 1.0.6
+Installing rack 3.0.9
+Installing nio4r 2.7.0 with native extensions
+Fetching websocket-extensions 0.1.5
+Fetching zeitwerk 2.6.13
+Fetching timeout 0.4.1
+Installing websocket-extensions 0.1.5
+Installing zeitwerk 2.6.13
+Installing timeout 0.4.1
+Fetching marcel 1.0.2
+Fetching mini_mime 1.1.5
+Installing marcel 1.0.2
+Fetching date 3.3.4
+Installing mini_mime 1.1.5
+Fetching io-console 0.7.2
+Installing date 3.3.4 with native extensions
+Installing io-console 0.7.2 with native extensions
+Fetching stringio 3.1.0
+Fetching webrick 1.8.1
+Installing stringio 3.1.0 with native extensions
+Installing webrick 1.8.1
+Fetching thor 1.3.0
+Installing thor 1.3.0
+Fetching drb 2.2.0
+Fetching websocket-driver 0.7.6
+Installing drb 2.2.0
+Installing websocket-driver 0.7.6 with native extensions
+Fetching net-protocol 0.2.2
+Fetching rack-session 2.0.0
+Installing net-protocol 0.2.2
+Installing rack-session 2.0.0
+Fetching rack-test 2.1.0
+Fetching rackup 2.1.0
+Fetching i18n 1.14.1
+Installing rack-test 2.1.0
+Installing i18n 1.14.1
+Fetching tzinfo 2.0.6
+Installing rackup 2.1.0
+Installing tzinfo 2.0.6
+Fetching net-pop 0.1.2
+Installing net-pop 0.1.2
+Fetching net-smtp 0.4.0.1
+Fetching nokogiri 1.16.2 (x64-mingw-ucrt)
+Installing net-smtp 0.4.0.1
+Fetching psych 5.1.2
+Installing psych 5.1.2 with native extensions
+Installing nokogiri 1.16.2 (x64-mingw-ucrt)
+Fetching loofah 2.22.0
+Installing loofah 2.22.0
+Fetching rails-html-sanitizer 1.6.0
+Installing rails-html-sanitizer 1.6.0
+Fetching net-imap 0.4.10
+Installing net-imap 0.4.10
+Fetching mail 2.8.1
+Installing mail 2.8.1
+Fetching reline 0.4.2
+Installing reline 0.4.2
+Fetching rdoc 6.6.2
+Installing rdoc 6.6.2
+Fetching irb 1.11.1
+Installing irb 1.11.1
+Fetching activesupport 7.1.3
+Installing activesupport 7.1.3
+Fetching rails-dom-testing 2.2.0
+Fetching globalid 1.2.1
+Fetching activemodel 7.1.3
+Installing globalid 1.2.1
+Installing activemodel 7.1.3
+Installing rails-dom-testing 2.2.0
+Fetching activejob 7.1.3
+Fetching actionview 7.1.3
+Installing activejob 7.1.3
+Installing actionview 7.1.3
+Fetching activerecord 7.1.3
+Installing activerecord 7.1.3
+Fetching actionpack 7.1.3
+Installing actionpack 7.1.3
+Fetching actioncable 7.1.3
+Fetching actionmailer 7.1.3
+Fetching railties 7.1.3
+Installing actionmailer 7.1.3
+Installing actioncable 7.1.3
+Installing railties 7.1.3
+Fetching activestorage 7.1.3
+Installing activestorage 7.1.3
+Fetching actionmailbox 7.1.3
+Fetching actiontext 7.1.3
+Installing actionmailbox 7.1.3
+Installing actiontext 7.1.3
+Fetching rails 7.1.3
+Installing rails 7.1.3
+Bundle complete! 1 Gemfile dependency, 59 gems now installed.
+Bundled gems are installed into `./vendor/bundle`
+
+t-osuga@PC01 MINGW64 /d/vscode-workspace/hobbyManage
+$
