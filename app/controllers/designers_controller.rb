@@ -10,7 +10,7 @@ class DesignersController < ApplicationController
 
   # GET /designers/1
   def show
-    render json: @designer
+    render json: @designer, methods: [:image_url]
   end
 
   # POST /designers
