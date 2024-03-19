@@ -47,6 +47,6 @@ class DesignersController < ApplicationController
     # Only allow a list of trusted parameters through.
     def designer_params
       # params.require(:designer).permit(:name, :image)
-      params.permit(:name, :image)
+      params.permit(:name, :external_link, :image)
     end
 end
