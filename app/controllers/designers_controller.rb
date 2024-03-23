@@ -27,6 +27,7 @@ class DesignersController < ApplicationController
   # PATCH/PUT /designers/1
   def update
     if @designer.update(designer_params)
+      @designer.image.purge if params[:image_delete] == "on";
       render json: @designer, methods: [:image_url]
     else
       render json: @designer.errors, status: :unprocessable_entity
